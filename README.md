@@ -22,7 +22,7 @@ About Me
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [matias.estanqueiro@gmail.com](mailto:matias.estanqueiro@gmail.com)
 * 🚀  I'm currently working on [GDNar](http://www.gdnargentina.com/)
-* 🧠  I'm learning PHP
+* 🧠  I'm learning PHP & Laravel
 * ⚡  Explore my repositories and join me on this thrilling development journey. Together, we can build the future of code!
 
 Skills
