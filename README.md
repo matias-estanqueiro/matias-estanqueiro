@@ -10,7 +10,7 @@ About Me
 Skills
 -----------------
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=php,python,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,js,kotlin)](https://skillicons.dev)
 
 ### Front-End
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap)](https://skillicons.dev)
